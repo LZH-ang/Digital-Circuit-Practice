@@ -1,0 +1,2 @@
+![pcb3d](https://github.com/LZH-ang/Digital-Circuit-Practice/blob/main/8-way%20responder%20use%20logic%20circuit%E5%80%92%E8%AE%A1%E6%97%B6%E5%85%AB%E8%B7%AF%E6%8A%A2%E7%AD%94%E5%99%A8/project%20files/PCB/PCB3D.png)  
+![sch](https://github.com/LZH-ang/Digital-Circuit-Practice/blob/main/8-way%20responder%20use%20logic%20circuit%E5%80%92%E8%AE%A1%E6%97%B6%E5%85%AB%E8%B7%AF%E6%8A%A2%E7%AD%94%E5%99%A8/project%20files/SCH/SCH.png)
