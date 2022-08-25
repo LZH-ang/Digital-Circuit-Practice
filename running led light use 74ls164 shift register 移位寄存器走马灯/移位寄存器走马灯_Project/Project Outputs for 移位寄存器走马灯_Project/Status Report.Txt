@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [移位寄存器走马灯_Project.PrjPcb]
+   Generated File[走马灯PCB.TXT]
+   Generated File[走马灯PCB.LDP]
+   Generated File[走马灯PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 下午 11:21:12 On 2022/8/21
